@@ -2,7 +2,7 @@
 
 **Alef Time**  
 **Lumen Team**  
-**Fecha de vigencia / Effective date:** [ACTUALIZAR ANTES DE PUBLICAR / UPDATE BEFORE PUBLISHING]
+**Fecha de vigencia / Effective date: 14 de julio 2026 / 14 of July 2026
 
 ---
 

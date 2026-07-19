@@ -1,8 +1,8 @@
 # Política de Privacidad / Privacy Policy
 
 **Alef Time**  
-**Lumen Team**  
-**Fecha de vigencia / Effective date:** 14 de julio 2026 / July 14, 2026
+**RUTA M28 STUDIOS**  
+**Fecha de vigencia / Effective date:** 21 de julio 2026 / July 21, 2026
 
 ---
 
@@ -56,7 +56,7 @@ Podemos actualizar esta política ocasionalmente. Cualquier cambio será publica
 ### 10. Contacto
 Si tienes preguntas sobre esta política de privacidad, puedes contactarnos:
 
-- **Correo electrónico:** lumenteam.soporte@gmail.com
+- **Correo electrónico:** rutam28.studios@gmail.com
 - **Teléfono:** +56975544952
 
 ---
@@ -111,5 +111,5 @@ We may update this policy occasionally. Any changes will be posted on this page 
 ### 10. Contact
 If you have questions about this privacy policy, you can contact us:
 
-- **Email:** lumenteam.soporte@gmail.com
+- **Email:** rutam28.studios@gmail.com
 - **Phone:** +56975544952

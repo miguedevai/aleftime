@@ -56,7 +56,7 @@ Podemos actualizar esta política ocasionalmente. Cualquier cambio será publica
 ### 10. Contacto
 Si tienes preguntas sobre esta política de privacidad, puedes contactarnos:
 
-- **Correo electrónico:** rutam28.studios@gmail.com
+- **Correo electrónico:** rutam28.studio@gmail.com
 - **Teléfono:** +56975544952
 
 ---
@@ -111,5 +111,5 @@ We may update this policy occasionally. Any changes will be posted on this page 
 ### 10. Contact
 If you have questions about this privacy policy, you can contact us:
 
-- **Email:** rutam28.studios@gmail.com
+- **Email:** rutam28.studio@gmail.com
 - **Phone:** +56975544952
